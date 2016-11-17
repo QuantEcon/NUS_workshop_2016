@@ -27,10 +27,9 @@ installation and some useful libraries.
 
 (Follow the install instructions for your OS in both cases)
 
-3. Make sure that you have wireless access
+Please be sure to bring your laptop to the workshop.  We will have a trouble shooting session at the start.
 
-Please be sure to bring your laptop to the workshop.  We will have a trouble shooting session at the start
-
+Please make sure that you have wireless access.
 
 ### Useful Links
 
