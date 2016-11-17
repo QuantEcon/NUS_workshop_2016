@@ -11,11 +11,11 @@ Economists are increasingly using modern open source computing environments
 such as [Python](https://www.python.org/) and [Julia](http://julialang.org/)
 for research and policy analysis.
 
-This workshop will cover the basics of these two language and how they can be
-used for computational economics.  We that participants know some economics
-and have basic programming skills, but do not know either Python or Julia.  We
-will provide a comparison and overview of these languanges, including set up
-and installation.
+This workshop will cover the basics of these two language and their use in
+computational economics.  We assume that participants 
+have basic programming skills but do not know either Python or Julia.  We
+will provide a comparison and overview of these languanges, including set up,
+installation and some useful libraries.
 
 
 ### Instructions
