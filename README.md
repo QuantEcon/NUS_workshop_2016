@@ -7,7 +7,7 @@ Lecturer: [John Stachurski](http://johnstachurski.net/)
 
 Support: [Matthew McKay](https://github.com/mmcky)
 
-Economists are increasingly using modern open source computing environments
+Economists are increasingly adopting modern open source computing environments
 such as [Python](https://www.python.org/) and [Julia](http://julialang.org/)
 for research and policy analysis.
 
