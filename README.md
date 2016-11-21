@@ -31,18 +31,23 @@ installation and some useful libraries.
 * Install [Julia](http://julialang.org/downloads)
 
     * Follow instructions for your OS
-    * Some extra info [here](http://julialang.org/downloads/platform.html)
+    * Some extra info [here](http://julialang.org/downloads/platform.html) if you need it
 
 Please be sure to bring your laptop to the workshop.  We will have a trouble shooting session at the start.
 
 Please make sure that you have wireless access.
 
-### Useful Links
+### Resources
 
 * [QuantEcon lectures](http://lectures.quantecon.org/)
 * [Cheat sheet](http://cheatsheets.quantecon.org/)
 * [Forum](http://discourse.quantecon.org/)
-* [AWS server]  [link to be added]
+
+### Temporary Server
+
+* [AWS server] [link to be added]
+
+
 
 ### Get the Files
 
