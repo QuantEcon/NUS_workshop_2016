@@ -21,11 +21,17 @@ installation and some useful libraries.
 ### Instructions
 
 
-1. Before coming, please install [Anaconda Python](https://www.continuum.io/downloads) on your laptop
+*  Before coming, please install [Anaconda Python](https://www.continuum.io/downloads) on your laptop
 
-2. Install [Julia](http://julialang.org/downloads)
+    * Python + the main scientific libraries
+    * Free from http://continuum.io/downloads
+    * Choose the Python 3.5 version
+    * Make it your default Python distribution
 
-(Follow the install instructions for your OS in both cases)
+* Install [Julia](http://julialang.org/downloads)
+
+    * Follow instructions for your OS
+    * Some extra info [here](http://julialang.org/downloads/platform.html)
 
 Please be sure to bring your laptop to the workshop.  We will have a trouble shooting session at the start.
 
