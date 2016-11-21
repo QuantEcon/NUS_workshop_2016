@@ -37,6 +37,11 @@ Please be sure to bring your laptop to the workshop.  We will have a trouble sho
 
 Please make sure that you have wireless access.
 
+### Notebooks
+
+* [AR1 simulation in Julia](http://nbviewer.jupyter.org/github/QuantEcon/NUS_workshop_2016/blob/master/ar1_plots_julia.ipynb)
+* [AR1 simulation in Python](http://nbviewer.jupyter.org/github/QuantEcon/NUS_workshop_2016/blob/master/ar1_plots_python.ipynb)
+
 ### Resources
 
 * [QuantEcon lectures](http://lectures.quantecon.org/)
