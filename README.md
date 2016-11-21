@@ -34,9 +34,8 @@ Please make sure that you have wireless access.
 ### Useful Links
 
 * [QuantEcon lectures](http://lectures.quantecon.org/)
-
 * [Cheat sheet](http://cheatsheets.quantecon.org/)
-
+* [Forum](http://discourse.quantecon.org/)
 * [AWS server]  [link to be added]
 
 ### Get the Files
