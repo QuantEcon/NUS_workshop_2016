@@ -11,7 +11,7 @@ Economists are increasingly adopting modern open source computing environments
 such as [Python](https://www.python.org/) and [Julia](http://julialang.org/)
 for research and policy analysis.
 
-This workshop will cover the basics of these two language and their use in
+This workshop will cover the basics of these two languages and their use in
 computational economics.  We assume that participants 
 have basic programming skills but do not know either Python or Julia.  We
 will provide a comparison and overview of these languanges, including set up,
@@ -50,7 +50,7 @@ Please make sure that you have wireless access.
 
 ### Temporary Server
 
-* [AWS server] [link to be added]
+* [AWS server](http://workshop.quantecon.org:8000)
 
 
 
