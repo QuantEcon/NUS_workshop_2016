@@ -48,10 +48,6 @@ Please make sure that you have wireless access.
 * [Cheat sheet](http://cheatsheets.quantecon.org/)
 * [Forum](http://discourse.quantecon.org/)
 
-### Temporary Server
-
-* [AWS server](http://workshop.quantecon.org:8000)
-
 
 
 ### Get the Files
@@ -60,7 +56,7 @@ To access the files in this repositiory, either
 
 * [use git](https://git-scm.com), if you know what that is, or
 
-* [download the zip file](https://github.com/QuantEcon/Keio_workshop/archive/master.zip)
+* download the zip file (see top right of page)
 
 
 ### Other
